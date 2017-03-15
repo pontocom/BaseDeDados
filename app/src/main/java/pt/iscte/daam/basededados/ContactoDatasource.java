@@ -12,6 +12,7 @@ import java.util.List;
 /**
  * Created by cserrao on 15/03/16.
  */
+
 public class ContactoDatasource {
     protected SQLiteDatabase db;
     protected DatabaseHelper dbhelper;
